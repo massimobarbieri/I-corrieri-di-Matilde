@@ -4,24 +4,26 @@
 \contentsline {chapter}{\numberline {1}Introduzione}{1}{}%
 \contentsline {section}{Contesto storico}{1}{}%
 \contentsline {subsection}{Eventi storici}{1}{}%
-\contentsline {subsubsection}{Subsubsection}{2}{}%
-\contentsline {paragraph}{Paragraph}{2}{}%
-\contentsline {subparagraph}{Subparagraph}{2}{}%
-\contentsline {section}{Special Sections}{2}{}%
-\contentsline {subsection}{Typesetting Savant}{2}{}%
-\contentsline {subsubsection}{Foo's Quill}{2}{}%
-\contentsline {subsubsection}{Beautiful Typesetting}{2}{}%
-\contentsline {section}{Map Regions}{3}{}%
-\contentsline {subsection}{1. Village of Hommlet}{3}{}%
-\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{3}{}%
-\contentsline {subsubsection}{1b. Blacksmith's Forge}{3}{}%
-\contentsline {subsection}{2. Foo's Castle}{3}{}%
-\contentsline {subsubsection}{2a. Moat}{3}{}%
-\contentsline {subsubsection}{2b. Entrance}{3}{}%
-\contentsline {chapter}{\numberline {2}Text Boxes}{4}{}%
-\contentsline {section}{As an Aside}{4}{}%
-\contentsline {section}{Tables}{4}{}%
-\contentsline {chapter}{\numberline {3}Monsters and NPCs}{5}{}%
-\contentsline {chapter}{\numberline {4}Colors}{6}{}%
-\contentsline {section}{Themed Colors}{6}{}%
+\contentsline {section}{La missione}{2}{}%
+\contentsline {section}{La consegna della pergamena}{2}{}%
+\contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{3}{}%
+\contentsline {paragraph}{Paragraph}{3}{}%
+\contentsline {subparagraph}{Subparagraph}{3}{}%
+\contentsline {section}{Special Sections}{3}{}%
+\contentsline {subsection}{Typesetting Savant}{3}{}%
+\contentsline {subsubsection}{Foo's Quill}{3}{}%
+\contentsline {subsubsection}{Beautiful Typesetting}{3}{}%
+\contentsline {section}{Map Regions}{4}{}%
+\contentsline {subsection}{1. Village of Hommlet}{4}{}%
+\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{4}{}%
+\contentsline {subsubsection}{1b. Blacksmith's Forge}{4}{}%
+\contentsline {subsection}{2. Foo's Castle}{4}{}%
+\contentsline {subsubsection}{2a. Moat}{4}{}%
+\contentsline {subsubsection}{2b. Entrance}{4}{}%
+\contentsline {chapter}{\numberline {3}Text Boxes}{5}{}%
+\contentsline {section}{As an Aside}{5}{}%
+\contentsline {section}{Tables}{5}{}%
+\contentsline {chapter}{\numberline {4}Monsters and NPCs}{6}{}%
+\contentsline {chapter}{\numberline {5}Colors}{7}{}%
+\contentsline {section}{Themed Colors}{7}{}%
 \contentsfinish 
