@@ -5,7 +5,13 @@
 \contentsline {section}{Contesto storico}{1}{}%
 \contentsline {subsection}{Eventi storici}{1}{}%
 \contentsline {section}{La missione}{2}{}%
-\contentsline {section}{La consegna della pergamena}{2}{}%
+\contentsline {section}{I PG in breve}{2}{}%
+\contentsline {paragraph}{Isabella Grattaciotoli}{2}{}%
+\contentsline {paragraph}{Dante Passafiume}{2}{}%
+\contentsline {paragraph}{Caterina Portinari}{2}{}%
+\contentsline {paragraph}{Virgilio Monforte}{2}{}%
+\contentsline {paragraph}{Clara Spina}{2}{}%
+\contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{2}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{3}{}%
 \contentsline {paragraph}{Paragraph}{3}{}%
 \contentsline {subparagraph}{Subparagraph}{3}{}%
