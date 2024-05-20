@@ -13,7 +13,6 @@
 \contentsline {paragraph}{Clara Spina}{2}{}%
 \contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{2}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{3}{}%
-\contentsline {paragraph}{Paragraph}{3}{}%
 \contentsline {subparagraph}{Subparagraph}{3}{}%
 \contentsline {section}{Special Sections}{3}{}%
 \contentsline {subsection}{Typesetting Savant}{3}{}%
