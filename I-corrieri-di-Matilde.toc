@@ -14,22 +14,24 @@
 \contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{3}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{4}{}%
 \contentsline {subsection}{Mettere al sicuro le provviste}{4}{}%
-\contentsline {subparagraph}{Subparagraph}{4}{}%
-\contentsline {section}{Special Sections}{4}{}%
-\contentsline {subsection}{Typesetting Savant}{4}{}%
-\contentsline {subsubsection}{Foo's Quill}{4}{}%
-\contentsline {subsubsection}{Beautiful Typesetting}{4}{}%
-\contentsline {section}{Map Regions}{5}{}%
-\contentsline {subsection}{1. Village of Hommlet}{5}{}%
+\contentsline {chapter}{\numberline {3}Appendice}{5}{}%
+\contentsline {section}{Il testo della pergamena}{5}{}%
+\contentsline {subparagraph}{Subparagraph}{5}{}%
+\contentsline {section}{Special Sections}{5}{}%
+\contentsline {subsection}{Typesetting Savant}{5}{}%
+\contentsline {subsubsection}{Foo's Quill}{5}{}%
+\contentsline {subsubsection}{Beautiful Typesetting}{5}{}%
+\contentsline {section}{Map Regions}{6}{}%
+\contentsline {subsection}{1. Village of Hommlet}{6}{}%
 \contentsline {subsubsection}{1a. Inn of the Welcome Wench}{6}{}%
 \contentsline {subsubsection}{1b. Blacksmith's Forge}{6}{}%
 \contentsline {subsection}{2. Foo's Castle}{6}{}%
 \contentsline {subsubsection}{2a. Moat}{6}{}%
 \contentsline {subsubsection}{2b. Entrance}{6}{}%
-\contentsline {chapter}{\numberline {3}Text Boxes}{7}{}%
+\contentsline {chapter}{\numberline {4}Text Boxes}{7}{}%
 \contentsline {section}{As an Aside}{7}{}%
 \contentsline {section}{Tables}{7}{}%
-\contentsline {chapter}{\numberline {4}Monsters and NPCs}{8}{}%
-\contentsline {chapter}{\numberline {5}Colors}{9}{}%
+\contentsline {chapter}{\numberline {5}Monsters and NPCs}{8}{}%
+\contentsline {chapter}{\numberline {6}Colors}{9}{}%
 \contentsline {section}{Themed Colors}{9}{}%
 \contentsfinish 
