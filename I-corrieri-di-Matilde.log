@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.5.3)  20 MAY 2024 15:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.5.2)  21 MAY 2024 17:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,7 +6,7 @@ entering extended mode
 (./I-corrieri-di-Matilde.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
-(/homel/mb99/texmf/tex/latex/dnd/dndbook.cls
+(/home/mbarbieri/texmf/tex/latex/dnd/dndbook.cls
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-01-22 L3 programming layer (loader) 
 
@@ -16,7 +16,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box51
 ))
 Document Class: dndbook 2020/04/21 v0.8.0  Template for DnD 5e material 
-(/homel/mb99/texmf/tex/latex/dnd/dndoptions.clo
+(/home/mbarbieri/texmf/tex/latex/dnd/dndoptions.clo
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
@@ -48,7 +48,7 @@ File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/homel/mb99/texmf/tex/latex/dnd/dndcore.def
+(/home/mbarbieri/texmf/tex/latex/dnd/dndcore.def
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen141
@@ -704,13 +704,13 @@ Package multicol Warning: May not work with the twocolumn option on input line
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ))
-(/homel/mb99/texmf/tex/latex/dnd/lib/compat.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndutility.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/compat.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndutility.sty
 \l__dnd_space_box=\box127
 \l__dnd_space_dim=\dimen281
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndcolors.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndfonts.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndcolors.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndfonts.sty
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2024-01-20 v2.60 (Daniel Flipo)
 
@@ -829,9 +829,9 @@ File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 112.
 ))
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndstrings.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndcomment.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndheader.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndstrings.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndcomment.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndheader.sty
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
@@ -845,21 +845,21 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip122
 \f@nch@O@orf=\skip123
 ))
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndmonster.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndmonster.sty
 \enitdp@__dnd_monster_attributes=\count324
 \enitdp@DndMonsterSpells=\count325
 \enitdp@DndMonsterLegendaryActions=\count326
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndreadaloud.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndsections.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndreadaloud.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndsections.sty
 \c@DndAreaCounter=\count327
 \c@DndSubAreaCounter=\count328
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndsidebar.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndtable.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndsidebar.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndtable.sty
 \l__dnd_table_width_dim=\dimen302
 ))
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndtoc.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndtoc.sty
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen303
@@ -981,17 +981,17 @@ File: lstlang3.sty 2023/02/27 1.9 listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/italian.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/japanese.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/ngerman.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/italian.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/japanese.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/ngerman.sty)
 ==> First Aid for ngerman.sty no longer applied!
     Expected:
         1998/07/08 v2.5e Support for writing german texts (br)
     but found:
         
     so I'm assuming it got fixed.
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/russian.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/spanish.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/russian.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/spanish.sty)
 (./I-corrieri-di-Matilde.aux)
 \openout1 = `I-corrieri-di-Matilde.aux'.
 
@@ -1155,8 +1155,8 @@ Package pdftex.def Info: img/paper.jpg  used on input line 44.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/base/8r.enc} </homel/mb99/texmf/tex/latex/dnd/img/paper.jpg>
-]
+st/fonts/enc/dvips/base/8r.enc} </home/mbarbieri/texmf/tex/latex/dnd/img/paper.
+jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
@@ -1167,6 +1167,11 @@ ce}}{\MakeUppercase    []{Indice}}}' on input line 46.
 (./I-corrieri-di-Matilde.toc
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 4.
+
+Overfull \hbox (0.57983pt too wide) detected at line 38
+ \T1/pbk/l/sc/12 10
+ []
+
 )
 \tf@toc=\write4
 \openout4 = `I-corrieri-di-Matilde.toc'.
@@ -1194,7 +1199,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 46.
 
 
 
- </homel/mb99/texmf/tex/latex/dnd/img/footerscroll.pdf>]
+ </home/mbarbieri/texmf/tex/latex/dnd/img/footerscroll.pdf>]
 Capitolo 1.
 contour: Using 32 copies for `Capitolo\ 1:' on input line 56.
 contour: Using 32 copies for `Introduzione' on input line 56.
@@ -1360,9 +1365,38 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 150.
 ]
 Capitolo 3.
 contour: Using 32 copies for `Capitolo\ 3:' on input line 150.
-contour: Using 32 copies for `Appendice' on input line 150.
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 15
-7.
+contour: Using 32 copies for `Verso' on input line 150.
+contour: Using 32 copies for `Canossa' on input line 150.
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.05644pt (L);
+(lettrine.sty)             reported on input line 151.
+Missing character: There is no ; in font nullfont!
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 175.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 175.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 175.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 175.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[5
+
+
+]
+Capitolo 4.
+contour: Using 32 copies for `Capitolo\ 4:' on input line 175.
+contour: Using 32 copies for `Appendice' on input line 175.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 18
+2.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -1371,7 +1405,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <7> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 159.
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 184.
 
 
 Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
@@ -1379,130 +1413,130 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 186.
+Package pdftex.def Info: img/paper.jpg  used on input line 211.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 186.
+Package pdftex.def Info: img/paper.jpg  used on input line 211.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 186.
+Package pdftex.def Info: img/paper.jpg  used on input line 211.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 186.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 211.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[5
+[6
 
 ]
 Underfull \vbox (badness 3601) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 208.
+Package pdftex.def Info: img/paper.jpg  used on input line 233.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 208.
+Package pdftex.def Info: img/paper.jpg  used on input line 233.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 208.
+Package pdftex.def Info: img/paper.jpg  used on input line 233.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 208.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 233.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [6]
-Capitolo 4.
-contour: Using 32 copies for `Capitolo\ 4:' on input line 208.
-contour: Using 32 copies for `Text' on input line 208.
-contour: Using 32 copies for `Boxes' on input line 208.
+ [7]
+Capitolo 5.
+contour: Using 32 copies for `Capitolo\ 5:' on input line 233.
+contour: Using 32 copies for `Text' on input line 233.
+contour: Using 32 copies for `Boxes' on input line 233.
 Missing character: There is no ; in font nullfont!
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 220.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 245.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 239.
+Package pdftex.def Info: img/paper.jpg  used on input line 264.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 239.
+Package pdftex.def Info: img/paper.jpg  used on input line 264.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 239.
+Package pdftex.def Info: img/paper.jpg  used on input line 264.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 239.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 264.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[7
+[8
 
 
 ]
-Capitolo 5.
-contour: Using 32 copies for `Capitolo\ 5:' on input line 239.
-contour: Using 32 copies for `Monsters' on input line 239.
-contour: Using 32 copies for `and' on input line 239.
-contour: Using 32 copies for `NPCs' on input line 239.
+Capitolo 6.
+contour: Using 32 copies for `Capitolo\ 6:' on input line 264.
+contour: Using 32 copies for `Monsters' on input line 264.
+contour: Using 32 copies for `and' on input line 264.
+contour: Using 32 copies for `NPCs' on input line 264.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 242.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 267.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 242.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 267.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <9> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 251.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 276.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not ava
 ilable
 (Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on in
-put line 274.
+put line 299.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 274.
+(Font)              scaled to size 9.0pt on input line 299.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not ava
 ilable
 (Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on in
-put line 274.
+put line 299.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 274.
+(Font)              scaled to size 9.0pt on input line 299.
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--277
+Underfull \hbox (badness 10000) in paragraph at lines 299--302
 \T1/GilliusADFNoTwo-LF/b/it/9 Innate Spell-ca-sting. \T1/GilliusADFNoTwo-LF/m/n
 /9 Foo's spell-ca-sting abi-li-ty is Cha-ri-sma (spell
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--277
+Underfull \hbox (badness 10000) in paragraph at lines 299--302
 \T1/GilliusADFNoTwo-LF/m/n/9 sa-ve DC 12, +4 to hit with spell at-tacks). It ca
 n in-na-te-ly ca-st the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--285
+Underfull \hbox (badness 10000) in paragraph at lines 307--310
 \T1/GilliusADFNoTwo-LF/b/it/9 Spellcasting. \T1/GilliusADFNoTwo-LF/m/n/9 Foo is
  a 2nd-level spell-ca-ster. Its spell-ca-sting abi-li-ty
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--285
+Underfull \hbox (badness 10000) in paragraph at lines 307--310
 \T1/GilliusADFNoTwo-LF/m/n/9 is Cha-ri-sma (spell sa-ve DC 12, +4 to hit with s
 pell at-tacks). It has
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+GilliusADFNoTwo-LF 
-on input line 286.
+on input line 311.
 (/usr/share/texlive/texmf-dist/tex/latex/gillius/TS1GilliusADFNoTwo-LF.fd
 File: TS1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for TS1/G
 illiusADFNoTwo-LF.
 )
 LaTeX Font Info:    Font shape `TS1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 286.
+(Font)              scaled to size 9.0pt on input line 311.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `GilliusADFNoTwo-LF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1514,143 +1548,143 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 \T1/GilliusADFNoTwo-LF/b/it/9 Dagger. \T1/GilliusADFNoTwo-LF/m/it/9 At-tac-co c
 on Ar-ma da Mi-schia o a Di-stan-za: \T1/GilliusADFNoTwo-LF/m/n/9 +3 per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 \T1/GilliusADFNoTwo-LF/m/n/9 col-pi-re, por-ta-ta 5 m. o git-ta-ta 20/60 m., on
 e tar-get. \T1/GilliusADFNoTwo-LF/m/it/9 Col-pi-to: \T1/GilliusADFNoTwo-LF/m/n/
 9 3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 \T1/GilliusADFNoTwo-LF/b/it/9 Flame Ton-gue Long-sword. \T1/GilliusADFNoTwo-LF/
 m/it/9 At-tac-co con Ar-ma da Mi-schia: \T1/GilliusADFNoTwo-LF/m/n/9 +3 per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 \T1/GilliusADFNoTwo-LF/m/n/9 col-pi-re, por-ta-ta 5 m., one tar-get. \T1/Gilliu
 sADFNoTwo-LF/m/it/9 Col-pi-to: \T1/GilliusADFNoTwo-LF/m/n/9 5 (1d8 + 1) sla-shi
 ng
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 \T1/GilliusADFNoTwo-LF/m/n/9 dan-no, o 6 (1d10 + 1) sla-shing dan-no if used wi
 th two hands, plus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 \T1/GilliusADFNoTwo-LF/b/it/9 Assassin's Light Cros-sbow. \T1/GilliusADFNoTwo-L
 F/m/it/9 At-tac-co con Ar-ma a Di-stan-za: \T1/GilliusADFNoTwo-LF/m/n/9 +1 per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 \T1/GilliusADFNoTwo-LF/m/n/9 col-pi-re, git-ta-ta 80/320 m., one tar-get. \T1/G
 illiusADFNoTwo-LF/m/it/9 Col-pi-to: \T1/GilliusADFNoTwo-LF/m/n/9 4 (1d8) pier-c
 ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 \T1/GilliusADFNoTwo-LF/m/n/9 dan-no, and the tar-get mu-st ma-ke a DC 15 Con-st
 i-tu-tion sa-ving
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 \T1/GilliusADFNoTwo-LF/m/n/9 th-row, ta-king 24 (7d6) poi-son da-ma-ge on a fai
 -led sa-ve, or half as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 366--368
 \T1/GilliusADFNoTwo-LF/m/n/9 The foo can ta-ke 3 le-gen-da-ry ac-tions, choo-si
 ng from the op-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 366--368
 \T1/GilliusADFNoTwo-LF/m/n/9 be-low. On-ly one le-gen-da-ry ac-tion op-tion can
  be used at a ti-me
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 366--368
 \T1/GilliusADFNoTwo-LF/m/n/9 and on-ly at the end of ano-ther crea-tu-re's turn
 . The foo re-gains
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 []\T1/GilliusADFNoTwo-LF/m/n/9 The foo pre-sen-ts a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 \T1/GilliusADFNoTwo-LF/m/n/9 con-tract in a lan-gua-ge it kno-ws and wa-ves it 
 in the fa-ce of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 \T1/GilliusADFNoTwo-LF/m/n/9 a crea-tu-re wi-thin 10 feet. The crea-tu-re mu-st
  ma-ke a DC
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 \T1/GilliusADFNoTwo-LF/m/n/9 10 In-tel-li-gen-ce sa-ving th-row. On a fai-lu-re
 , the crea-tu-re is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 \T1/GilliusADFNoTwo-LF/m/n/9 in-ca-pa-ci-ta-ted un-til the start of the foo's n
 ext turn. A crea-tu-re
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 \T1/GilliusADFNoTwo-LF/m/n/9 who can-not read the lan-gua-ge in which the con-t
 ract is writ-ten
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 354.
+Package pdftex.def Info: img/paper.jpg  used on input line 379.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 354.
+Package pdftex.def Info: img/paper.jpg  used on input line 379.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 354.
+Package pdftex.def Info: img/paper.jpg  used on input line 379.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 354.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 379.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[8
+[9
 
 
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_efuo7w.enc}]
-Capitolo 6.
-contour: Using 32 copies for `Capitolo\ 6:' on input line 354.
-contour: Using 32 copies for `Colors' on input line 354.
+Capitolo 7.
+contour: Using 32 copies for `Capitolo\ 7:' on input line 379.
+contour: Using 32 copies for `Colors' on input line 379.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 369.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 394.
 
 (./I-corrieri-di-Matilde.bbl
 File: img/paper.jpg Graphic file (type jpg)
@@ -1669,28 +1703,28 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [9
+ [10
 
 ]
 contour: Using 32 copies for `Bibliografia' on input line 1.
 )
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 441.
+Package pdftex.def Info: img/paper.jpg  used on input line 466.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 441.
+Package pdftex.def Info: img/paper.jpg  used on input line 466.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 441.
+Package pdftex.def Info: img/paper.jpg  used on input line 466.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 441.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 466.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [10
+ [11
 
 
 ] (./I-corrieri-di-Matilde.aux)
@@ -1700,10 +1734,10 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 29825 strings out of 476130
- 599775 string characters out of 5794105
+ 29834 strings out of 476130
+ 600142 string characters out of 5794105
  2046975 words of memory out of 5000000
- 50886 multiletter control sequences out of 15000+600000
+ 50895 multiletter control sequences out of 15000+600000
  670801 words of font info for 323 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  121i,18n,129p,1046b,2277s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1723,10 +1757,10 @@ nts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl
 i8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on I-corrieri-di-Matilde.pdf (12 pages, 3348848 bytes).
+Output written on I-corrieri-di-Matilde.pdf (13 pages, 3358416 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
+ 148 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  139297 words of extra memory for PDF output out of 154059 (max. 10000000)
 
