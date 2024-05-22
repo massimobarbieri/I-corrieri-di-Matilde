@@ -13,28 +13,28 @@
 \contentsline {paragraph}{Clara Spina}{3}{}%
 \contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{3}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{4}{}%
-\contentsline {subsection}{Mettere al sicuro le provviste}{4}{}%
-\contentsline {chapter}{\numberline {3}Verso Canossa}{5}{}%
-\contentsline {section}{Banditi}{5}{}%
-\contentsline {section}{Il mago traditore}{5}{}%
-\contentsline {chapter}{\numberline {4}Appendice}{6}{}%
-\contentsline {section}{Il testo della pergamena}{6}{}%
-\contentsline {subparagraph}{Subparagraph}{6}{}%
-\contentsline {section}{Special Sections}{6}{}%
-\contentsline {subsection}{Typesetting Savant}{6}{}%
-\contentsline {subsubsection}{Foo's Quill}{6}{}%
-\contentsline {subsubsection}{Beautiful Typesetting}{6}{}%
-\contentsline {section}{Map Regions}{7}{}%
-\contentsline {subsection}{1. Village of Hommlet}{7}{}%
-\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{7}{}%
-\contentsline {subsubsection}{1b. Blacksmith's Forge}{7}{}%
-\contentsline {subsection}{2. Foo's Castle}{7}{}%
-\contentsline {subsubsection}{2a. Moat}{7}{}%
-\contentsline {subsubsection}{2b. Entrance}{7}{}%
-\contentsline {chapter}{\numberline {5}Text Boxes}{8}{}%
-\contentsline {section}{As an Aside}{8}{}%
-\contentsline {section}{Tables}{8}{}%
-\contentsline {chapter}{\numberline {6}Monsters and NPCs}{9}{}%
-\contentsline {chapter}{\numberline {7}Colors}{10}{}%
-\contentsline {section}{Themed Colors}{10}{}%
+\contentsline {subsection}{Il carro al sicuro}{4}{}%
+\contentsline {chapter}{\numberline {3}Verso Canossa}{6}{}%
+\contentsline {section}{Banditi}{6}{}%
+\contentsline {section}{Il mago traditore}{6}{}%
+\contentsline {chapter}{\numberline {4}Appendice}{7}{}%
+\contentsline {section}{Il testo della pergamena}{7}{}%
+\contentsline {subparagraph}{Subparagraph}{7}{}%
+\contentsline {section}{Special Sections}{7}{}%
+\contentsline {subsection}{Typesetting Savant}{7}{}%
+\contentsline {subsubsection}{Foo's Quill}{7}{}%
+\contentsline {subsubsection}{Beautiful Typesetting}{7}{}%
+\contentsline {section}{Map Regions}{8}{}%
+\contentsline {subsection}{1. Village of Hommlet}{8}{}%
+\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{8}{}%
+\contentsline {subsubsection}{1b. Blacksmith's Forge}{8}{}%
+\contentsline {subsection}{2. Foo's Castle}{8}{}%
+\contentsline {subsubsection}{2a. Moat}{8}{}%
+\contentsline {subsubsection}{2b. Entrance}{8}{}%
+\contentsline {chapter}{\numberline {5}Text Boxes}{9}{}%
+\contentsline {section}{As an Aside}{9}{}%
+\contentsline {section}{Tables}{9}{}%
+\contentsline {chapter}{\numberline {6}Monsters and NPCs}{10}{}%
+\contentsline {chapter}{\numberline {7}Colors}{11}{}%
+\contentsline {section}{Themed Colors}{11}{}%
 \contentsfinish 
