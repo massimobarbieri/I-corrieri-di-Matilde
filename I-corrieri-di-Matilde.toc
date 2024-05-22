@@ -5,18 +5,25 @@
 \contentsline {section}{Contesto storico}{1}{}%
 \contentsline {subsection}{Eventi storici}{1}{}%
 \contentsline {section}{La missione}{2}{}%
-\contentsline {section}{I PG in breve}{2}{}%
+\contentsline {section}{PG in breve}{2}{}%
 \contentsline {paragraph}{Isabella Grattaciotoli}{2}{}%
 \contentsline {paragraph}{Dante Passafiume}{3}{}%
 \contentsline {paragraph}{Caterina Portinari}{3}{}%
 \contentsline {paragraph}{Virgilio Monforte}{3}{}%
 \contentsline {paragraph}{Clara Spina}{3}{}%
 \contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{3}{}%
+\contentsline {subsection}{NPC in breve}{3}{}%
+\contentsline {paragraph}{Tobaldo Malatesta}{3}{}%
+\contentsline {paragraph}{Filippo Pocaterra}{3}{}%
+\contentsline {paragraph}{Desiderio Forgiaferro}{3}{}%
+\contentsline {paragraph}{Matilde di Canossa}{3}{}%
+\contentsline {paragraph}{Goffredo il Gobbo}{3}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{4}{}%
 \contentsline {subsection}{Il carro al sicuro}{4}{}%
 \contentsline {chapter}{\numberline {3}Verso Canossa}{6}{}%
 \contentsline {section}{Banditi}{6}{}%
 \contentsline {section}{Il mago traditore}{6}{}%
+\contentsline {section}{Udienza con Matilde}{6}{}%
 \contentsline {chapter}{\numberline {4}Appendice}{7}{}%
 \contentsline {section}{Il testo della pergamena}{7}{}%
 \contentsline {subparagraph}{Subparagraph}{7}{}%
