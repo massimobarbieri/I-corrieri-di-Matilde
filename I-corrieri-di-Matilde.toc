@@ -24,24 +24,4 @@
 \contentsline {section}{Banditi}{6}{}%
 \contentsline {section}{Il mago traditore}{6}{}%
 \contentsline {section}{Udienza con Matilde}{6}{}%
-\contentsline {chapter}{\numberline {4}Appendice}{7}{}%
-\contentsline {section}{Il testo della pergamena}{7}{}%
-\contentsline {subparagraph}{Subparagraph}{7}{}%
-\contentsline {section}{Special Sections}{7}{}%
-\contentsline {subsection}{Typesetting Savant}{7}{}%
-\contentsline {subsubsection}{Foo's Quill}{7}{}%
-\contentsline {subsubsection}{Beautiful Typesetting}{7}{}%
-\contentsline {section}{Map Regions}{8}{}%
-\contentsline {subsection}{1. Village of Hommlet}{8}{}%
-\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{8}{}%
-\contentsline {subsubsection}{1b. Blacksmith's Forge}{8}{}%
-\contentsline {subsection}{2. Foo's Castle}{8}{}%
-\contentsline {subsubsection}{2a. Moat}{8}{}%
-\contentsline {subsubsection}{2b. Entrance}{8}{}%
-\contentsline {chapter}{\numberline {5}Text Boxes}{9}{}%
-\contentsline {section}{As an Aside}{9}{}%
-\contentsline {section}{Tables}{9}{}%
-\contentsline {chapter}{\numberline {6}Monsters and NPCs}{10}{}%
-\contentsline {chapter}{\numberline {7}Colors}{11}{}%
-\contentsline {section}{Themed Colors}{11}{}%
 \contentsfinish 
