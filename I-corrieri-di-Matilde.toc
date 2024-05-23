@@ -3,10 +3,10 @@
 \babel@toc {italian}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduzione}{1}{}%
 \contentsline {section}{Contesto storico}{1}{}%
-\contentsline {subsection}{Eventi storici}{1}{}%
-\contentsline {section}{La missione}{2}{}%
-\contentsline {section}{PG in breve}{2}{}%
-\contentsline {paragraph}{Isabella Grattaciotoli}{2}{}%
+\contentsline {subsection}{Eventi storici}{2}{}%
+\contentsline {section}{La missione}{3}{}%
+\contentsline {section}{PG in breve}{3}{}%
+\contentsline {paragraph}{Isabella Grattaciotoli}{3}{}%
 \contentsline {paragraph}{Dante Passafiume}{3}{}%
 \contentsline {paragraph}{Caterina Portinari}{3}{}%
 \contentsline {paragraph}{Virgilio Monforte}{3}{}%
@@ -18,12 +18,12 @@
 \contentsline {paragraph}{Desiderio Forgiaferro}{3}{}%
 \contentsline {paragraph}{Matilde di Canossa}{3}{}%
 \contentsline {paragraph}{Goffredo il Gobbo}{3}{}%
-\contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{4}{}%
-\contentsline {subsection}{Il carro al sicuro}{4}{}%
-\contentsline {subsection}{NPC della locanda}{4}{}%
-\contentsline {subsection}{Il pasto}{5}{}%
-\contentsline {chapter}{\numberline {3}Verso Canossa}{6}{}%
-\contentsline {section}{Banditi}{6}{}%
-\contentsline {section}{Il mago traditore}{6}{}%
-\contentsline {section}{Udienza con Matilde}{6}{}%
+\contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{5}{}%
+\contentsline {subsection}{Il carro al sicuro}{5}{}%
+\contentsline {subsection}{NPC della locanda}{5}{}%
+\contentsline {subsection}{Il pasto}{6}{}%
+\contentsline {chapter}{\numberline {3}Verso Canossa}{7}{}%
+\contentsline {section}{Banditi}{7}{}%
+\contentsline {section}{Il mago traditore}{7}{}%
+\contentsline {section}{Udienza con Matilde}{7}{}%
 \contentsfinish 
