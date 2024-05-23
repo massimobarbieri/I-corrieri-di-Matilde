@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.30)  23 MAY 2024 16:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.30)  23 MAY 2024 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -21,7 +21,7 @@ Document Class: dndbook 2020/04/21 v0.8.0  Template for DnD 5e material
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 
-Package dnd Info: Unknown option "letterpaper" passed to book class.
+Package dnd Info: Unknown option "a4" passed to book class.
 
 
 Package dnd Info: Unknown option "openany" passed to book class.
@@ -880,32 +880,14 @@ Package babel Info: Importing font and identification data for italian
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/frcursive/frcursive.sty
-Package: frcursive 2004/02/01 v1.2 support package for French Cursive
-\seyesThickness=\skip124
-\seyes@box=\box131
-\seyes@ln=\skip125
-)
 (/usr/share/texlive/texmf-dist/tex/latex/fundus-calligra/calligra.sty
 Package: calligra 2012/04/10 v1.9 LaTeX package calligra
 )
-(/usr/share/texlive/texmf-dist/tex/latex/dblfloatfix/dblfloatfix.sty
-Package: dblfloatfix 2012/12/31 v1.0a (JAW)
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
-Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
-Applying: [2015/01/01] Old fixltx2e package on input line 46.
-
-
-Package fixltx2e Warning: fixltx2e is not required with releases after 2015
-(fixltx2e)                All fixes are now in the LaTeX kernel.
-(fixltx2e)                See the latexrelease package for details.
-
-Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+(/usr/share/texlive/texmf-dist/tex/latex/aurical/aurical.sty
+Package: aurical 2006/10/12 aurical - a set of three decorative fonts with acce
+nts
 )
-\@dblbotnum=\count334
-\c@dblbotnumber=\count335
-) (/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/italian.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/italian.sty)
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/japanese.sty)
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/ngerman.sty)
 ==> First Aid for ngerman.sty no longer applied!
@@ -916,6 +898,10 @@ Already applied: [0000/00/00] Old fixltx2e package on input line 53.
     so I'm assuming it got fixed.
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/russian.sty)
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/spanish.sty)
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
 (./pergamena.aux)
 \openout1 = `pergamena.aux'.
 
@@ -936,16 +922,16 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count336
+\scratchcounter=\count334
 \scratchdimen=\dimen305
-\scratchbox=\box132
-\nofMPsegments=\count337
-\nofMParguments=\count338
+\scratchbox=\box131
+\nofMPsegments=\count335
+\nofMParguments=\count336
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count339
+\MPscratchCnt=\count337
 \MPscratchDim=\dimen306
-\MPnumerator=\count340
-\makeMPintoPDFobject=\count341
+\MPnumerator=\count338
+\makeMPintoPDFobject=\count339
 \everyMPtoPDFconversion=\toks49
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -972,7 +958,7 @@ Package gensymb Info: Using \textmu for \micro on input line 11.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
@@ -1022,37 +1008,38 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c@mv@tabular=\count342
-\c@mv@boldtabular=\count343
+\c@mv@tabular=\count340
+\c@mv@boldtabular=\count341
 LaTeX Info: Redefining \it@ocap on input line 11.
 LaTeX Info: Redefining \it@ccap on input line 11.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 14.40002pt on input line 14.
+LaTeX Font Info:    Trying to load font information for T1+LukasSvatba on input
+ line 14.
+(/usr/share/texlive/texmf-dist/tex/latex/aurical/T1LukasSvatba.fd
+File: T1LukasSvatba.fd 2006/01/01 font def. for LukasSvatba, a calligraphic fon
+t like 16th century Bastarda
+)
+
+LaTeX Font Warning: Font shape `T1/LukasSvatba/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 14.
+
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `calligra' (encoding: T1).
+(microtype)             `LukasSvatba' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package microtype Info: Character `@' is missing
-(microtype)             in font `T1/calligra/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `+' is missing
-(microtype)             in font `T1/calligra/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textendash ' is missing
-(microtype)             in font `T1/calligra/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textbackslash ' is missing
-(microtype)             in font `T1/calligra/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotesinglbase ' is missing
-(microtype)             in font `T1/calligra/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textless ' is missing
-(microtype)             in font `T1/calligra/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textgreater ' is missing
-(microtype)             in font `T1/calligra/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
+
+LaTeX Font Warning: Font shape `T1/LukasSvatba/m/n' will be
+(Font)              scaled to size 24.88794pt on input line 25.
+
+
+LaTeX Font Warning: Font shape `T1/LukasSvatba/b/n' undefined
+(Font)              using `T1/LukasSvatba/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `T1/LukasSvatba/bx/n' will be
+(Font)              scaled to size 24.88794pt on input line 25.
+
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 27.
 <img/sigillo.png, id=4, 608.2725pt x 651.43375pt>
 File: img/sigillo.png Graphic file (type png)
 <use img/sigillo.png>
@@ -1090,19 +1077,20 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 24094 strings out of 476057
- 505792 string characters out of 5792522
- 1930975 words of memory out of 5000000
- 45618 multiletter control sequences out of 15000+600000
- 561833 words of font info for 47 fonts, out of 8000000 for 9000
+ 24056 strings out of 476057
+ 504936 string characters out of 5792522
+ 1931975 words of memory out of 5000000
+ 45579 multiletter control sequences out of 15000+600000
+ 564967 words of font info for 52 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 121i,18n,129p,1006b,880s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/calligra-type1/callig15.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on pergamena.pdf (1 page, 1694512 bytes).
+ 121i,18n,129p,1006b,888s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/aurical/LukasSvatba.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/aurical/LukasSvatbaBold.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
+Output written on pergamena.pdf (1 page, 1706420 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6684 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 9756 words of extra memory for PDF output out of 10000 (max. 10000000)
 
