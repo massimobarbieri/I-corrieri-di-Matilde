@@ -20,6 +20,8 @@
 \contentsline {paragraph}{Goffredo il Gobbo}{3}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{4}{}%
 \contentsline {subsection}{Il carro al sicuro}{4}{}%
+\contentsline {subsection}{NPC della locanda}{4}{}%
+\contentsline {subsection}{Il pasto}{5}{}%
 \contentsline {chapter}{\numberline {3}Verso Canossa}{6}{}%
 \contentsline {section}{Banditi}{6}{}%
 \contentsline {section}{Il mago traditore}{6}{}%
