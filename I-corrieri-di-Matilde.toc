@@ -2,6 +2,8 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduzione}{1}{}%
+\contentsline {section}{Chi siamo}{1}{}%
+\contentsline {section}{La oneshot}{1}{}%
 \contentsline {section}{Contesto storico}{1}{}%
 \contentsline {subsection}{Eventi storici}{2}{}%
 \contentsline {section}{La missione}{3}{}%
@@ -9,15 +11,15 @@
 \contentsline {paragraph}{Isabella Grattaciotoli}{3}{}%
 \contentsline {paragraph}{Dante Passafiume}{3}{}%
 \contentsline {paragraph}{Caterina Portinari}{3}{}%
-\contentsline {paragraph}{Virgilio Monforte}{3}{}%
-\contentsline {paragraph}{Clara Spina}{3}{}%
-\contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{3}{}%
-\contentsline {subsection}{NPC in breve}{3}{}%
-\contentsline {paragraph}{Tobaldo Malatesta}{3}{}%
-\contentsline {paragraph}{Filippo Pocaterra}{3}{}%
-\contentsline {paragraph}{Desiderio Forgiaferro}{3}{}%
-\contentsline {paragraph}{Matilde di Canossa}{3}{}%
-\contentsline {paragraph}{Goffredo il Gobbo}{3}{}%
+\contentsline {paragraph}{Virgilio Monforte}{4}{}%
+\contentsline {paragraph}{Clara Spina}{4}{}%
+\contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{4}{}%
+\contentsline {subsection}{NPC in breve}{4}{}%
+\contentsline {paragraph}{Tobaldo Malatesta}{4}{}%
+\contentsline {paragraph}{Filippo Pocaterra}{4}{}%
+\contentsline {paragraph}{Desiderio Forgiaferro}{4}{}%
+\contentsline {paragraph}{Matilde di Canossa}{4}{}%
+\contentsline {paragraph}{Goffredo il Gobbo}{4}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{5}{}%
 \contentsline {subsection}{Il carro al sicuro}{5}{}%
 \contentsline {subsection}{NPC della locanda}{6}{}%
