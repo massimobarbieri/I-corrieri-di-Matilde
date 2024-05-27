@@ -5,12 +5,12 @@
 \contentsline {section}{Chi siamo}{1}{}%
 \contentsline {section}{La oneshot}{1}{}%
 \contentsline {section}{Contesto storico}{1}{}%
-\contentsline {subsection}{Eventi storici}{2}{}%
+\contentsline {subsection}{Eventi successivi}{2}{}%
 \contentsline {section}{La missione}{3}{}%
-\contentsline {section}{PG in breve}{3}{}%
-\contentsline {paragraph}{Isabella Grattaciotoli}{3}{}%
-\contentsline {paragraph}{Dante Passafiume}{3}{}%
-\contentsline {paragraph}{Caterina Portinari}{3}{}%
+\contentsline {section}{PG in breve}{4}{}%
+\contentsline {paragraph}{Isabella Grattaciotoli}{4}{}%
+\contentsline {paragraph}{Dante Passafiume}{4}{}%
+\contentsline {paragraph}{Caterina Portinari}{4}{}%
 \contentsline {paragraph}{Virgilio Monforte}{4}{}%
 \contentsline {paragraph}{Clara Spina}{4}{}%
 \contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{4}{}%
