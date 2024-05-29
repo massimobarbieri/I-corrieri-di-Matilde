@@ -28,4 +28,13 @@
 \contentsline {section}{Banditi}{7}{}%
 \contentsline {section}{Il mago traditore}{7}{}%
 \contentsline {section}{Udienza con Matilde}{7}{}%
+\contentsline {chapter}{\numberline {4}Proteggere Goffredo}{8}{}%
+\contentsline {section}{Castello di Rossena}{8}{}%
+\contentsline {subsection}{1. Rossena piano 1}{8}{}%
+\contentsline {subsubsection}{1a. Sala del trono}{8}{}%
+\contentsline {subsubsection}{1b. Ingresso}{8}{}%
+\contentsline {subsubsection}{1c. Dispensa}{8}{}%
+\contentsline {subsubsection}{1d. Cucina}{8}{}%
+\contentsline {subsubsection}{1e. Sala}{8}{}%
+\contentsline {subsubsection}{1f. Sala pranzo}{8}{}%
 \contentsfinish 
