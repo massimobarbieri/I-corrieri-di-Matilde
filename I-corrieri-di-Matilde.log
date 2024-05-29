@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.30)  29 MAY 2024 14:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.30)  29 MAY 2024 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -992,7 +992,11 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
     so I'm assuming it got fixed.
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/russian.sty)
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/spanish.sty)
-(./I-corrieri-di-Matilde.aux)
+(./I-corrieri-di-Matilde.aux
+
+LaTeX Warning: Label `subarea:Ripostiglio' multiply defined.
+
+)
 \openout1 = `I-corrieri-di-Matilde.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -1009,8 +1013,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count349
 \scratchdimen=\dimen317
@@ -1456,11 +1459,11 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.21213pt (D);
 (lettrine.sty)             reported on input line 280.
-<img/rossena.png, id=55, 1897.0875pt x 2740.2375pt>
+<img/rossena.png, id=55, 1897.0875pt x 2669.975pt>
 File: img/rossena.png Graphic file (type png)
 <use img/rossena.png>
-Package pdftex.def Info: img/rossena.png  used on input line 313.
-(pdftex.def)             Requested size: 455.2979pt x 657.62863pt.
+Package pdftex.def Info: img/rossena.png  used on input line 334.
+(pdftex.def)             Requested size: 455.2979pt x 640.76637pt.
 (./I-corrieri-di-Matilde.bbl
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1506,19 +1509,19 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 322.
+Package pdftex.def Info: img/paper.jpg  used on input line 343.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 322.
+Package pdftex.def Info: img/paper.jpg  used on input line 343.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 322.
+Package pdftex.def Info: img/paper.jpg  used on input line 343.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 322.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 343.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [10
 
@@ -1530,15 +1533,15 @@ L3 programming layer <2024-01-22>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 28175 strings out of 476057
- 577563 string characters out of 5792522
+ 28184 strings out of 476057
+ 577729 string characters out of 5792522
  1968975 words of memory out of 5000000
- 49320 multiletter control sequences out of 15000+600000
- 637044 words of font info for 271 fonts, out of 8000000 for 9000
+ 49326 multiletter control sequences out of 15000+600000
+ 637236 words of font info for 273 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  121i,18n,129p,1248b,1175s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bol
@@ -1554,7 +1557,7 @@ f-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/boo
 kman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.
 pfb>
-Output written on I-corrieri-di-Matilde.pdf (12 pages, 8303498 bytes).
+Output written on I-corrieri-di-Matilde.pdf (12 pages, 8321814 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream

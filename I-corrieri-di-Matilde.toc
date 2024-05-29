@@ -37,4 +37,11 @@
 \contentsline {subsubsection}{1d. Cucina}{8}{}%
 \contentsline {subsubsection}{1e. Sala}{8}{}%
 \contentsline {subsubsection}{1f. Sala pranzo}{8}{}%
+\contentsline {subsubsection}{1g. Ripostiglio}{8}{}%
+\contentsline {subsubsection}{1h. Camera}{8}{}%
+\contentsline {subsubsection}{1i. Studio}{8}{}%
+\contentsline {subsubsection}{1j. Stanza dei ricevimenti}{8}{}%
+\contentsline {subsubsection}{1k. Ripostiglio}{8}{}%
+\contentsline {subsubsection}{1l. Stanza del camino}{8}{}%
+\contentsline {subsubsection}{1m. Stanza da lettura}{8}{}%
 \contentsfinish 
