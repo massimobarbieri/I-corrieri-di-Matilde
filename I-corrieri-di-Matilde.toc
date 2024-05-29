@@ -29,15 +29,15 @@
 \contentsline {section}{Il mago traditore}{7}{}%
 \contentsline {section}{Udienza con Matilde}{7}{}%
 \contentsline {chapter}{\numberline {4}Proteggere Goffredo}{8}{}%
-\contentsline {section}{Castello di Rossena}{8}{}%
-\contentsline {subsection}{1. Rossena piano 1}{8}{}%
+\contentsline {section}{Interpretare il Duca}{8}{}%
+\contentsline {subsection}{1. Castello di Rossena}{8}{}%
 \contentsline {subsubsection}{1a. Sala del trono}{8}{}%
 \contentsline {subsubsection}{1b. Ingresso}{8}{}%
 \contentsline {subsubsection}{1c. Dispensa}{8}{}%
 \contentsline {subsubsection}{1d. Cucina}{8}{}%
 \contentsline {subsubsection}{1e. Sala}{8}{}%
 \contentsline {subsubsection}{1f. Sala pranzo}{8}{}%
-\contentsline {subsubsection}{1g. Ripostiglio}{8}{}%
+\contentsline {subsubsection}{1g. Ripostiglio}{9}{}%
 \contentsline {subsubsection}{1h. Camera}{9}{}%
 \contentsline {subsubsection}{1i. Studio}{9}{}%
 \contentsline {subsubsection}{1j. Stanza dei ricevimenti}{9}{}%
