@@ -28,20 +28,20 @@
 \contentsline {section}{Banditi}{7}{}%
 \contentsline {section}{Il mago traditore}{7}{}%
 \contentsline {section}{Udienza con Matilde}{7}{}%
-\contentsline {chapter}{\numberline {4}Proteggere Goffredo}{8}{}%
-\contentsline {section}{Interpretare il Duca}{8}{}%
-\contentsline {subsection}{1. Castello di Rossena}{8}{}%
-\contentsline {subsubsection}{1a. Sala del trono}{8}{}%
-\contentsline {subsubsection}{1b. Ingresso}{8}{}%
-\contentsline {subsubsection}{1c. Dispensa}{8}{}%
-\contentsline {subsubsection}{1d. Cucina}{8}{}%
-\contentsline {subsubsection}{1e. Sala}{8}{}%
-\contentsline {subsubsection}{1f. Sala pranzo}{8}{}%
-\contentsline {subsubsection}{1g. Ripostiglio}{9}{}%
-\contentsline {subsubsection}{1h. Camera}{9}{}%
-\contentsline {subsubsection}{1i. Studio}{9}{}%
-\contentsline {subsubsection}{1j. Stanza dei ricevimenti}{9}{}%
-\contentsline {subsubsection}{1k. Ripostiglio}{9}{}%
-\contentsline {subsubsection}{1l. Stanza del camino}{9}{}%
-\contentsline {subsubsection}{1m. Stanza da lettura}{9}{}%
+\contentsline {chapter}{\numberline {4}Proteggere Goffredo}{9}{}%
+\contentsline {section}{Interpretare il Duca}{9}{}%
+\contentsline {subsection}{1. Castello di Rossena}{9}{}%
+\contentsline {subsubsection}{1a. Sala del trono}{9}{}%
+\contentsline {subsubsection}{1b. Ingresso}{9}{}%
+\contentsline {subsubsection}{1c. Dispensa}{9}{}%
+\contentsline {subsubsection}{1d. Cucina}{9}{}%
+\contentsline {subsubsection}{1e. Sala}{9}{}%
+\contentsline {subsubsection}{1f. Sala pranzo}{9}{}%
+\contentsline {subsubsection}{1g. Ripostiglio}{10}{}%
+\contentsline {subsubsection}{1h. Camera}{10}{}%
+\contentsline {subsubsection}{1i. Studio}{10}{}%
+\contentsline {subsubsection}{1j. Stanza dei ricevimenti}{10}{}%
+\contentsline {subsubsection}{1k. Ripostiglio}{10}{}%
+\contentsline {subsubsection}{1l. Stanza del camino}{10}{}%
+\contentsline {subsubsection}{1m. Stanza da lettura}{10}{}%
 \contentsfinish 
