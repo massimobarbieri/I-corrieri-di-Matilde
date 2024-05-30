@@ -17,7 +17,6 @@
 \contentsline {subsection}{NPC in breve}{4}{}%
 \contentsline {paragraph}{Tobaldo Malatesta}{4}{}%
 \contentsline {paragraph}{Filippo Pocaterra}{4}{}%
-\contentsline {paragraph}{Desiderio Forgiaferro}{4}{}%
 \contentsline {paragraph}{Matilde di Canossa}{4}{}%
 \contentsline {paragraph}{Goffredo il Gobbo}{4}{}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{5}{}%
@@ -25,8 +24,9 @@
 \contentsline {subsection}{NPC della locanda}{6}{}%
 \contentsline {subsection}{Il pasto}{6}{}%
 \contentsline {chapter}{\numberline {3}Verso Canossa}{7}{}%
-\contentsline {section}{Banditi}{7}{}%
-\contentsline {section}{Il mago traditore}{7}{}%
+\contentsline {section}{Incontri durante il viaggio}{7}{}%
+\contentsline {subsection}{Banditi}{7}{}%
+\contentsline {subsection}{Il mago traditore - rivedere}{7}{}%
 \contentsline {section}{Udienza con Matilde}{7}{}%
 \contentsline {chapter}{\numberline {4}Proteggere Goffredo}{9}{}%
 \contentsline {section}{Interpretare il Duca}{9}{}%
