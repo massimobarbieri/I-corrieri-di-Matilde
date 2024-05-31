@@ -43,4 +43,7 @@
 \contentsline {subsubsection}{1k. Ripostiglio}{10}{}%
 \contentsline {subsubsection}{1l. Stanza del camino}{10}{}%
 \contentsline {subsubsection}{1m. Stanza da lettura}{10}{}%
+\contentsline {subsubsection}{Tu sei libero di:}{12}{}%
+\contentsline {subsubsection}{Alle seguenti condizioni:}{12}{}%
+\contentsline {subsubsection}{Note:}{12}{}%
 \contentsfinish 
