@@ -29,12 +29,13 @@
 \contentsline {section}{Udienza con Matilde}{7}{}%
 \contentsline {chapter}{\numberline {4}Proteggere Goffredo}{9}{}%
 \contentsline {section}{Interpretare il Duca}{9}{}%
+\contentsline {subsection}{Il vicario}{9}{}%
 \contentsline {subsection}{1. Castello di Rossena}{9}{}%
 \contentsline {subsubsection}{1a. Sala delle udienze}{9}{}%
 \contentsline {subsubsection}{1b. Ingresso}{9}{}%
 \contentsline {subsubsection}{1c. Dispensa}{9}{}%
-\contentsline {subsubsection}{1d. Cucina}{9}{}%
-\contentsline {subsubsection}{1e. Sala}{9}{}%
+\contentsline {subsubsection}{1d. Cucina}{10}{}%
+\contentsline {subsubsection}{1e. Sala}{10}{}%
 \contentsline {subsubsection}{1f. Sala pranzo}{10}{}%
 \contentsline {subsubsection}{1g. Ripostiglio}{10}{}%
 \contentsline {subsubsection}{1h. Camera}{10}{}%
