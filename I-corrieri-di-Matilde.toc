@@ -33,7 +33,7 @@
 \contentsline {subsection}{1. Castello di Rossena}{9}{}%
 \contentsline {subsubsection}{1a. Sala delle udienze}{9}{}%
 \contentsline {subsubsection}{1b. Ingresso}{9}{}%
-\contentsline {subsubsection}{1c. Dispensa}{9}{}%
+\contentsline {subsubsection}{1c. Dispensa}{10}{}%
 \contentsline {subsubsection}{1d. Cucina}{10}{}%
 \contentsline {subsubsection}{1e. Sala}{10}{}%
 \contentsline {subsubsection}{1f. Sala pranzo}{10}{}%
@@ -44,10 +44,16 @@
 \contentsline {subsubsection}{1k. Ripostiglio}{10}{}%
 \contentsline {subsubsection}{1l. Stanza del camino}{10}{}%
 \contentsline {subsubsection}{1m. Stanza da lettura}{10}{}%
-\contentsline {subsubsection}{Perché una licenza? Tiratela meno!}{12}{}%
-\contentsline {subsubsection}{[CC BY-SA 4.0 Deed]}{12}{}%
-\contentsline {subsubsection}{Tu sei libero di:}{12}{}%
-\contentsline {subsubsection}{Alle seguenti condizioni:}{12}{}%
-\contentsline {subsubsection}{Note:}{12}{}%
-\contentsline {subsubsection}{Invia un feedback}{12}{}%
+\contentsline {subsubsection}{1n. Corridoio e scale}{10}{}%
+\contentsline {subsubsection}{1o. Camerata guardie}{10}{}%
+\contentsline {subsubsection}{1p. Camerata guardie}{11}{}%
+\contentsline {subsubsection}{1q. Corridoio fra le camerate}{11}{}%
+\contentsline {subsubsection}{1r. Camerata della servitù}{11}{}%
+\contentsline {subsubsection}{1s. Sala del tesoro}{11}{}%
+\contentsline {subsubsection}{Perché una licenza? Tiratela meno!}{13}{}%
+\contentsline {subsubsection}{[CC BY-SA 4.0 Deed]}{13}{}%
+\contentsline {subsubsection}{Tu sei libero di:}{13}{}%
+\contentsline {subsubsection}{Alle seguenti condizioni:}{13}{}%
+\contentsline {subsubsection}{Note:}{13}{}%
+\contentsline {subsubsection}{Invia un feedback}{13}{}%
 \contentsfinish 
