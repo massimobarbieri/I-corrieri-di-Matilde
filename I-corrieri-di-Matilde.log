@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.30)  31 MAY 2024 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.5.2)  1 JUN 2024 07:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,7 +868,7 @@ Package: titletoc 2023/10/27 v2.16 TOC entries
 Package: babel 2024/01/07 v24.1 The Babel package
 \babel@savecnt=\count329
 \U@D=\dimen304
-\l@unhyphenated=\language12
+\l@unhyphenated=\language8
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read4
@@ -1320,29 +1320,29 @@ File: img/goffredo-il-gobbo.png Graphic file (type png)
 <use img/goffredo-il-gobbo.png>
 Package pdftex.def Info: img/goffredo-il-gobbo.png  used on input line 128.
 (pdftex.def)             Requested size: 213.39566pt x 280.74971pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 139.
+Package pdftex.def Info: img/paper.jpg  used on input line 137.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 139.
+Package pdftex.def Info: img/paper.jpg  used on input line 137.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 139.
+Package pdftex.def Info: img/paper.jpg  used on input line 137.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 139.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 137.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [3{/usr/share/texlive/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc} <
 ./img/matilde.png> <./img/goffredo-il-gobbo.png>]
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
 (Font)              Font shape `T1/pbk/db/sl' tried instead on input line 147.
-
-Underfull \vbox (badness 1325) has occurred while \output is active []
-
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 173.
@@ -1545,10 +1545,19 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 385.
 contour: Using 32 copies for `Licenza' on input line 385.
 contour: Using 32 copies for `Creative' on input line 385.
 contour: Using 32 copies for `Commons' on input line 385.
+contour: Using 32 copies for `[CC-BY-SA]' on input line 385.
+
+Overfull \hbox (11.88228pt too wide) in paragraph at lines 385--385
+|[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][]| 
+ []
+
 <img/by-sa.png, id=71, 225.84375pt x 79.04532pt>
 File: img/by-sa.png Graphic file (type png)
 <use img/by-sa.png>
-Package pdftex.def Info: img/by-sa.png  used on input line 412.
+Package pdftex.def Info: img/by-sa.png  used on input line 418.
 (pdftex.def)             Requested size: 101.17645pt x 35.41205pt.
 (./I-corrieri-di-Matilde.bbl
 File: img/paper.jpg Graphic file (type jpg)
@@ -1569,25 +1578,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [12
 
-
-]
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [13 <./img/by-sa.png>]
+ <./img/by-sa.png>]
 contour: Using 32 copies for `Bibliografia' on input line 1.
 )
 
@@ -1596,22 +1587,21 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 419.
+Package pdftex.def Info: img/paper.jpg  used on input line 425.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 419.
+Package pdftex.def Info: img/paper.jpg  used on input line 425.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 419.
+Package pdftex.def Info: img/paper.jpg  used on input line 425.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 419.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 425.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[14
-
+[13
 
 
 ] (./I-corrieri-di-Matilde.aux)
@@ -1625,12 +1615,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 28237 strings out of 476057
- 578741 string characters out of 5792522
+ 28232 strings out of 476130
+ 578596 string characters out of 5794105
  1971975 words of memory out of 5000000
- 49371 multiletter control sequences out of 15000+600000
- 637942 words of font info for 279 fonts, out of 8000000 for 9000
- 81 hyphenation exceptions out of 8191
+ 49356 multiletter control sequences out of 15000+600000
+ 638262 words of font info for 281 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
  121i,19n,129p,1254b,1284s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bol
 d.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2
@@ -1645,10 +1635,10 @@ f-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/boo
 kman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.
 pfb>
-Output written on I-corrieri-di-Matilde.pdf (16 pages, 8355734 bytes).
+Output written on I-corrieri-di-Matilde.pdf (15 pages, 8358394 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 137 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  108085 words of extra memory for PDF output out of 128383 (max. 10000000)
 
