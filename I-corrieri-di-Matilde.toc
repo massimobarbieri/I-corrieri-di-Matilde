@@ -32,7 +32,7 @@
 \contentsline {subsection}{Il vicario}{9}{}%
 \contentsline {subsection}{1. Castello di Rossena}{9}{}%
 \contentsline {subsubsection}{1a. Sala delle udienze}{9}{}%
-\contentsline {subsubsection}{1b. Ingresso}{9}{}%
+\contentsline {subsubsection}{1b. Ingresso}{10}{}%
 \contentsline {subsubsection}{1c. Dispensa}{10}{}%
 \contentsline {subsubsection}{1d. Cucina}{10}{}%
 \contentsline {subsubsection}{1e. Sala}{10}{}%
@@ -43,9 +43,9 @@
 \contentsline {subsubsection}{1j. Stanza dei ricevimenti}{10}{}%
 \contentsline {subsubsection}{1k. Ripostiglio}{10}{}%
 \contentsline {subsubsection}{1l. Stanza del camino}{10}{}%
-\contentsline {subsubsection}{1m. Stanza da lettura}{10}{}%
-\contentsline {subsubsection}{1n. Corridoio e scale}{10}{}%
-\contentsline {subsubsection}{1o. Camerata guardie}{10}{}%
+\contentsline {subsubsection}{1m. Stanza da lettura}{11}{}%
+\contentsline {subsubsection}{1n. Corridoio e scale}{11}{}%
+\contentsline {subsubsection}{1o. Camerata guardie}{11}{}%
 \contentsline {subsubsection}{1p. Camerata guardie}{11}{}%
 \contentsline {subsubsection}{1q. Corridoio fra le camerate}{11}{}%
 \contentsline {subsubsection}{1r. Camerata della servitù}{11}{}%
