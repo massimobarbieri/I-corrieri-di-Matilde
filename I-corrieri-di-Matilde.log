@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.5.3)  3 JUN 2024 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.5.3)  3 JUN 2024 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1378,21 +1378,26 @@ LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
+<img/tobaldo-malatesta.png, id=44, 718.18312pt x 725.71124pt>
+File: img/tobaldo-malatesta.png Graphic file (type png)
+<use img/tobaldo-malatesta.png>
+Package pdftex.def Info: img/tobaldo-malatesta.png  used on input line 200.
+(pdftex.def)             Requested size: 213.39566pt x 215.63324pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 207.
+Package pdftex.def Info: img/paper.jpg  used on input line 214.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 207.
+Package pdftex.def Info: img/paper.jpg  used on input line 214.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 207.
+Package pdftex.def Info: img/paper.jpg  used on input line 214.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 207.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 214.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [5
 
@@ -1401,104 +1406,106 @@ Missing character: There is no ; in font nullfont!
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Underfull \vbox (badness 2245) has occurred while \output is active []
-
+<img/filippo-pocaterra.png, id=50, 660.96938pt x 674.52pt>
+File: img/filippo-pocaterra.png Graphic file (type png)
+<use img/filippo-pocaterra.png>
+Package pdftex.def Info: img/filippo-pocaterra.png  used on input line 243.
+(pdftex.def)             Requested size: 213.39566pt x 217.76518pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 239.
+Package pdftex.def Info: img/paper.jpg  used on input line 251.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 239.
+Package pdftex.def Info: img/paper.jpg  used on input line 251.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 239.
+Package pdftex.def Info: img/paper.jpg  used on input line 251.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 239.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 251.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [6]
+[6 <./img/tobaldo-malatesta.png> <./img/filippo-pocaterra.png>]
 Capitolo 3.
-contour: Using 32 copies for `Capitolo\ 3:' on input line 239.
-contour: Using 32 copies for `Verso' on input line 239.
-contour: Using 32 copies for `Canossa' on input line 239.
+contour: Using 32 copies for `Capitolo\ 3:' on input line 251.
+contour: Using 32 copies for `Verso' on input line 251.
+contour: Using 32 copies for `Canossa' on input line 251.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.05644pt (L);
-(lettrine.sty)             reported on input line 240.
+(lettrine.sty)             reported on input line 252.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<img/castello.png, id=53, 841.1425pt x 1194.4625pt>
+<img/castello.png, id=57, 841.1425pt x 1194.4625pt>
 File: img/castello.png Graphic file (type png)
 <use img/castello.png>
-Package pdftex.def Info: img/castello.png  used on input line 275.
+Package pdftex.def Info: img/castello.png  used on input line 287.
 (pdftex.def)             Requested size: 213.39566pt x 303.02557pt.
 Missing character: There is no ; in font nullfont!
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 291.
+Package pdftex.def Info: img/paper.jpg  used on input line 303.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 291.
+Package pdftex.def Info: img/paper.jpg  used on input line 303.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 291.
+Package pdftex.def Info: img/paper.jpg  used on input line 303.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 291.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 303.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [7
 
  <./img/castello.png>]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 294.
+Package pdftex.def Info: img/paper.jpg  used on input line 306.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 294.
+Package pdftex.def Info: img/paper.jpg  used on input line 306.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 294.
+Package pdftex.def Info: img/paper.jpg  used on input line 306.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 294.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 306.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [8
 
 ]
 Capitolo 4.
-contour: Using 32 copies for `Capitolo\ 4:' on input line 294.
-contour: Using 32 copies for `Proteggere' on input line 294.
-contour: Using 32 copies for `Goffredo' on input line 294.
+contour: Using 32 copies for `Capitolo\ 4:' on input line 306.
+contour: Using 32 copies for `Proteggere' on input line 306.
+contour: Using 32 copies for `Goffredo' on input line 306.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.21213pt (D);
-(lettrine.sty)             reported on input line 295.
+(lettrine.sty)             reported on input line 307.
 Missing character: There is no ; in font nullfont!
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 338.
+Package pdftex.def Info: img/paper.jpg  used on input line 350.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 338.
+Package pdftex.def Info: img/paper.jpg  used on input line 350.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 338.
+Package pdftex.def Info: img/paper.jpg  used on input line 350.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 338.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 350.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [9
 
@@ -1513,80 +1520,80 @@ Underfull \vbox (badness 1189) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 380.
+Package pdftex.def Info: img/paper.jpg  used on input line 392.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 380.
+Package pdftex.def Info: img/paper.jpg  used on input line 392.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 380.
+Package pdftex.def Info: img/paper.jpg  used on input line 392.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 380.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 392.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [10]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<img/rossena.png, id=66, 3023.295pt x 2400.97pt>
+<img/rossena.png, id=70, 3023.295pt x 2400.97pt>
 File: img/rossena.png Graphic file (type png)
 <use img/rossena.png>
-Package pdftex.def Info: img/rossena.png  used on input line 410.
+Package pdftex.def Info: img/rossena.png  used on input line 422.
 (pdftex.def)             Requested size: 455.2979pt x 361.55876pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 416.
+Package pdftex.def Info: img/paper.jpg  used on input line 428.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 416.
+Package pdftex.def Info: img/paper.jpg  used on input line 428.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 416.
+Package pdftex.def Info: img/paper.jpg  used on input line 428.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 416.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 428.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [11
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 416.
+Package pdftex.def Info: img/paper.jpg  used on input line 428.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 416.
+Package pdftex.def Info: img/paper.jpg  used on input line 428.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 416.
+Package pdftex.def Info: img/paper.jpg  used on input line 428.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 416.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 428.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [12 <./img/rossena.png>]
-contour: Using 32 copies for `Licenza' on input line 416.
-contour: Using 32 copies for `Creative' on input line 416.
-contour: Using 32 copies for `Commons' on input line 416.
-contour: Using 32 copies for `[CC-BY-SA]' on input line 416.
+contour: Using 32 copies for `Licenza' on input line 428.
+contour: Using 32 copies for `Creative' on input line 428.
+contour: Using 32 copies for `Commons' on input line 428.
+contour: Using 32 copies for `[CC-BY-SA]' on input line 428.
 
-Overfull \hbox (11.88228pt too wide) in paragraph at lines 416--416
+Overfull \hbox (11.88228pt too wide) in paragraph at lines 428--428
 |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][]| 
  []
 
-<img/by-sa.png, id=75, 225.84375pt x 79.04532pt>
+<img/by-sa.png, id=79, 225.84375pt x 79.04532pt>
 File: img/by-sa.png Graphic file (type png)
 <use img/by-sa.png>
-Package pdftex.def Info: img/by-sa.png  used on input line 449.
+Package pdftex.def Info: img/by-sa.png  used on input line 461.
 (pdftex.def)             Requested size: 101.17645pt x 35.41205pt.
 (./I-corrieri-di-Matilde.bbl
 File: img/paper.jpg Graphic file (type jpg)
@@ -1617,19 +1624,19 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 456.
+Package pdftex.def Info: img/paper.jpg  used on input line 468.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 456.
+Package pdftex.def Info: img/paper.jpg  used on input line 468.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 456.
+Package pdftex.def Info: img/paper.jpg  used on input line 468.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 456.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 468.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [14
 
@@ -1645,10 +1652,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 28249 strings out of 476130
- 578777 string characters out of 5794105
+ 28265 strings out of 476130
+ 579246 string characters out of 5794105
  1971975 words of memory out of 5000000
- 49370 multiletter control sequences out of 15000+600000
+ 49386 multiletter control sequences out of 15000+600000
  638582 words of font info for 283 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  121i,19n,129p,1286b,1284s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1665,10 +1672,10 @@ f-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/boo
 kman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.
 pfb>
-Output written on I-corrieri-di-Matilde.pdf (16 pages, 8882703 bytes).
+Output written on I-corrieri-di-Matilde.pdf (16 pages, 11226643 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 108085 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 108095 words of extra memory for PDF output out of 128383 (max. 10000000)
 
