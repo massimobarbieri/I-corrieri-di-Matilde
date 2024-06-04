@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: I-corrieri-di-Matilde.aux
 The style file: plain.bst
 Database file #1: bibliografia.bib
-You've used 4 entries,
+You've used 5 entries,
             2118 wiz_defined-function locations,
-            513 strings with 4341 characters,
-and the built_in function-call counts, 874 in all, are:
-= -- 77
-> -- 28
+            516 strings with 4397 characters,
+and the built_in function-call counts, 1071 in all, are:
+= -- 94
+> -- 35
 < -- 0
-+ -- 12
-- -- 8
-* -- 35
-:= -- 158
-add.period$ -- 11
-call.type$ -- 4
-change.case$ -- 13
++ -- 15
+- -- 10
+* -- 41
+:= -- 190
+add.period$ -- 13
+call.type$ -- 5
+change.case$ -- 17
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 43
-empty$ -- 89
-format.name$ -- 8
-if$ -- 185
+cite$ -- 5
+duplicate$ -- 50
+empty$ -- 111
+format.name$ -- 10
+if$ -- 228
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 5
 missing$ -- 6
-newline$ -- 22
-num.names$ -- 8
-pop$ -- 30
+newline$ -- 26
+num.names$ -- 10
+pop$ -- 39
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 15
 quote$ -- 0
-skip$ -- 26
+skip$ -- 34
 stack$ -- 0
-substring$ -- 20
-swap$ -- 4
+substring$ -- 25
+swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 10
+type$ -- 14
 warning$ -- 0
-while$ -- 8
-width$ -- 5
-write$ -- 43
+while$ -- 10
+width$ -- 6
+write$ -- 51
