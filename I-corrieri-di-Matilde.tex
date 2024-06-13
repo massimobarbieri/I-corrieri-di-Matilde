@@ -21,6 +21,16 @@
 \usepackage{stfloats}
 \usepackage{graphicx}% http://ctan.org/pkg/graphicx
 
+\usepackage{color}   %May be necessary if you want to color links
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
 
 \captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
 
@@ -55,18 +65,9 @@
 
 \chapter{Introduzione}
 
-\section{Chi siamo}
-\DndDropCapLine{C}{aro Dungeon Master}, siamo un gruppo di appassionati di Dungeons \& Dragons che ha preparato questa avventura per te. Vorremmo condividere con te il nostro approccio al gioco di D\&D per darti alcuni suggerimenti su come condurre al meglio questa avventura.
-
-Quando creiamo i nostri personaggi giocanti (PG), ci concentriamo sulla costruzione di personaggi complessi. Introduciamo difetti che possono aggiungere elementi divertenti al gioco, sviluppiamo background coerenti e integrati nell'ambientazione. Dedichiamo tempo a riflettere sui pensieri e le motivazioni dei PG, esplorando come reagirebbero a diverse situazioni. Ad esempio, durante la nostra ultima avventura, lo stregone Virgilio Monforte aveva problemi di memoria, mentre Clara Spina, la chierica, citava spesso proverbi senza senso. Prestiamo maggiore attenzione a questi aspetti rispetto alle regole specifiche di D\&D, che comunque consideriamo come punto di riferimento.
-
-Quando un personaggio compie azioni che devono rimanere segrete dagli altri giocatori, utilizziamo Telegram per comunicare in modo riservato con il DM. Questa tecnica ha contribuito significativamente al divertimento di tutti in numerose occasioni. Nella OneShot descritta in questo testo, la comunicazione segreta con il DM è fondamentale per il successo dell'avventura.
-
-Riteniamo che il DM debba avere una trama di base da seguire, ma sia importante saper improvvisare e adattarsi alle situazioni emergenti durante il gioco. Alla fine di questo testo, condivideremo un breve resoconto delle avventure vissute durante la nostra campagna.
-
 
 \section{La oneshot}
-Questa avventura è una OneShot basata sul gioco di ruolo Dungeons \& Dragons 5° edizione\cite{dnd:giocatore}, progettata per un gruppo di 4-6 giocatori di 4$^\circ$ livello. L'ambientazione si colloca nel Medioevo Italiano, nei pressi del Castello di Canossa, i cui resti si trovano nel basso Appennino Reggiano, in Italia. Elementi magici, razze, classi e altri aspetti fantasy tipici di D\&D vengono integrati nell'ambientazione storica, ad eccezione delle seguenti razze non presenti: dragonidi, tiefling e mezz'orchi.
+\DndDropCapLine{Q}{uesta avventura è una OneShot} basata sulle regole de gioco di ruolo Dungeons \& Dragons 5° edizione\cite{dnd:giocatore}, progettata per un gruppo di 4-6 giocatori di 4$^\circ$ livello. L'ambientazione si colloca nel Medioevo Italiano, nei pressi del Castello di Canossa, i cui resti si trovano nel basso Appennino Reggiano, in Italia. Elementi magici, razze, classi e altri aspetti fantasy tipici di D\&D vengono integrati nell'ambientazione storica, ad eccezione delle seguenti razze non presenti: dragonidi, tiefling e mezz'orchi.
 
 I personaggi giocanti (PG) sono creati dal Dungeon Master (DM). Nel paragrafo relativo al background dei PG (§\ref{PG}) sono fornite linee guida per la creazione dei personaggi. Alcuni di questi elementi sono considerati cruciali per mantenere coerenza con la trama.
 
@@ -74,11 +75,26 @@ La missione, inizialmente semplice e lineare, dovrebbe evolversi in un momento d
 
 Le creature incontrate durante questa OneShot sono evidenziate in \textbf{grassetto} e fanno riferimento al Manuale dei Mostri di D\&D 5e\cite{dnd:mostri}.
 
+\section{Come giocare}
+Caro Dungeon Master, vorremmo condividere con te il nostro approccio al gioco di D\&D per darti alcuni suggerimenti su come condurre al meglio questa avventura.
 
+Quando creiamo i nostri personaggi giocanti (PG), ci concentriamo sulla costruzione di personaggi complessi. Introduciamo difetti che possono aggiungere elementi divertenti al gioco, sviluppiamo background coerenti e integrati nell'ambientazione. Dedichiamo tempo a riflettere sui pensieri e le motivazioni dei PG, esplorando come reagirebbero a diverse situazioni. Ad esempio, durante la nostra ultima avventura, lo stregone Virgilio Monforte aveva problemi di memoria, mentre Clara Spina, la chierica, citava spesso proverbi senza senso. Prestiamo maggiore attenzione a questi aspetti rispetto alle regole specifiche di D\&D, che comunque consideriamo come punto di riferimento.
+
+Quando un personaggio compie azioni che devono rimanere segrete dagli altri giocatori, utilizziamo Telegram per comunicare in modo riservato con il DM. Questa tecnica ha contribuito significativamente al divertimento di tutti in numerose occasioni. Nella OneShot descritta in questo testo, la comunicazione segreta con il DM è fondamentale per il successo dell'avventura.
+
+Riteniamo che il DM debba avere una trama di base da seguire, ma sia importante saper improvvisare e adattarsi alle situazioni emergenti durante il gioco. Alla fine di questo testo, condivideremo un breve resoconto delle avventure vissute durante la nostra campagna.
+
+\begin{DndSidebar}{Scarica tutto il materiale!!}
+Questo testo non è sufficiente a condurre l'avventura. Ricorda di scaricare e stampare anche la missiva che il paladino del gruppo dovrà consegnare di persona a Matilde di Canossa.
+\end{DndSidebar}
+
+
+
+\chapter{Inizia l'avventura}
 
 \section{Contesto storico}
 
-Matilde di Canossa\footnote{Questo paragrafo è stato dedotto e sintetizzato dalla voce enciclopedica di Wikipedia "Matilde di Canossa"} (Fig. \ref{fig:matilde})\cite{wiki:matilde}, o più correttamente Matilde di Toscana, nota anche con lo pseudonimo di \textit{Magna Comitissa} in italiano Gran Contessa, nacque nel 1046, terzogenita della potentissima famiglia feudale italiana dei Canossa considerata all'epoca la più potente famiglia d'Europa. Trascorse i primi anni della sua esistenza nell'agiatezza e serenità del castello di Canossa, teatro dei grandi banchetti e delle sontuose feste organizzate dal padre. Tuttavia a soli sei anni Matilde assistette a un evento che avrebbe cambiato radicalmente il corso della sua vita: il 6 maggio 1052 il padre Bonifacio fu ucciso a tradimento durante una battuta di caccia da uno dei suoi vassalli, che lo trapassò alla gola con una freccia avvelenata. L'agonia del duca durò alcune ore; nella tarda serata dello stesso giorno egli spirò.
+\DndDropCapLine{M}{atilde di Canossa}\footnote{Questo paragrafo è stato dedotto e sintetizzato dalla voce enciclopedica di Wikipedia "Matilde di Canossa"} (Fig. \ref{fig:matilde})\cite{wiki:matilde}, o più correttamente Matilde di Toscana, nota anche con lo pseudonimo di \textit{Magna Comitissa} in italiano Gran Contessa, nacque nel 1046, terzogenita della potentissima famiglia feudale italiana dei Canossa considerata all'epoca la più potente famiglia d'Europa. Trascorse i primi anni della sua esistenza nell'agiatezza e serenità del castello di Canossa, teatro dei grandi banchetti e delle sontuose feste organizzate dal padre. Tuttavia a soli sei anni Matilde assistette a un evento che avrebbe cambiato radicalmente il corso della sua vita: il 6 maggio 1052 il padre Bonifacio fu ucciso a tradimento durante una battuta di caccia da uno dei suoi vassalli, che lo trapassò alla gola con una freccia avvelenata. L'agonia del duca durò alcune ore; nella tarda serata dello stesso giorno egli spirò.
 
 \begin{figure}
 \centering
@@ -425,7 +441,7 @@ Una sala contiene numerosi tesori accumulati
 \end{figure*}
 
 
-\chapter*{Licenza Creative Commons [CC-BY-SA]}
+\chapter{Licenza Creative Commons [CC-BY-SA]}
 \subsubsection{Perché una licenza? Tiratela meno!}
 
 Questa licenza (CC-BY-SA) è pensata per dare a chi utilizza questo testo maggiore libertà, dichiarandolo esplicitamente, non il contrario!! Puoi fare praticamente quello che vuoi di questo testo, compreso ripubblicarlo, l'unica limitazione che abbiamo aggiunto consiste nel fatto che, se apporti le modifiche al testo e desideri ripubblicarlo, dovresti farlo con la medesima licenza, in modo che anche altri possano divertirsi con il tuo lavoro!
