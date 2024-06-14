@@ -8,54 +8,63 @@
 \contentsline {subsection}{Eventi successivi}{3}{subsection*.7}%
 \contentsline {section}{La missione}{3}{section*.9}%
 \contentsline {section}{PG in breve}{4}{section*.10}%
-\contentsline {subsubsection}{Dante Passafiume}{4}{subsubsection*.11}%
-\contentsline {paragraph}{Difetti:}{4}{paragraph*.12}%
-\contentsline {paragraph}{Isabella Grattaciotoli}{4}{paragraph*.13}%
-\contentsline {paragraph}{Caterina Portinari}{4}{paragraph*.14}%
-\contentsline {paragraph}{Virgilio Monforte}{4}{paragraph*.15}%
-\contentsline {paragraph}{Clara Spina}{4}{paragraph*.16}%
-\contentsline {paragraph}{Olin (nome di copertura Herbert Mann)}{4}{paragraph*.17}%
-\contentsline {subsection}{NPC in breve}{4}{subsection*.18}%
-\contentsline {paragraph}{Tobaldo Malatesta}{4}{paragraph*.19}%
-\contentsline {paragraph}{Filippo Pocaterra}{4}{paragraph*.20}%
-\contentsline {paragraph}{Matilde di Canossa}{4}{paragraph*.21}%
-\contentsline {paragraph}{Goffredo il Gobbo}{4}{paragraph*.22}%
-\contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{5}{chapter.2}%
-\contentsline {subsection}{Il carro al sicuro}{5}{subsection*.24}%
-\contentsline {subsection}{NPC della locanda}{6}{subsection*.25}%
-\contentsline {subsection}{Il pasto}{6}{subsection*.26}%
-\contentsline {chapter}{\numberline {3}Verso Canossa}{7}{chapter.3}%
-\contentsline {section}{Incontri durante il viaggio}{7}{section*.28}%
-\contentsline {subsection}{Imboscata}{7}{subsection*.29}%
-\contentsline {section}{Udienza con Matilde}{7}{section*.30}%
-\contentsline {chapter}{\numberline {4}Proteggere Goffredo}{10}{chapter.4}%
-\contentsline {section}{Interpretare il Duca}{10}{section*.33}%
-\contentsline {subsection}{Il vicario}{10}{subsection*.34}%
-\contentsline {subsection}{1. Castello di Rossena}{10}{subsection*.35}%
-\contentsline {subsubsection}{1a. Sala delle udienze}{10}{subsubsection*.36}%
-\contentsline {subsubsection}{1b. Ingresso}{11}{subsubsection*.37}%
-\contentsline {subsubsection}{1c. Dispensa}{11}{subsubsection*.38}%
-\contentsline {subsubsection}{1d. Cucina}{11}{subsubsection*.39}%
-\contentsline {subsubsection}{1e. Sala}{11}{subsubsection*.40}%
-\contentsline {subsubsection}{1f. Sala pranzo}{11}{subsubsection*.41}%
-\contentsline {subsubsection}{1g. Ripostiglio}{11}{subsubsection*.42}%
-\contentsline {subsubsection}{1h. Camera}{11}{subsubsection*.43}%
-\contentsline {subsubsection}{1i. Studio}{11}{subsubsection*.44}%
-\contentsline {subsubsection}{1j. Stanza dei ricevimenti}{11}{subsubsection*.45}%
-\contentsline {subsubsection}{1k. Ripostiglio}{11}{subsubsection*.46}%
-\contentsline {subsubsection}{1l. Stanza del camino}{11}{subsubsection*.47}%
-\contentsline {subsubsection}{1m. Stanza da lettura}{12}{subsubsection*.48}%
-\contentsline {subsubsection}{1n. Corridoio e scale}{12}{subsubsection*.49}%
-\contentsline {subsubsection}{1o. Camerata guardie}{12}{subsubsection*.50}%
-\contentsline {subsubsection}{1p. Camerata guardie}{12}{subsubsection*.51}%
-\contentsline {subsubsection}{1q. Corridoio fra le camerate}{12}{subsubsection*.52}%
-\contentsline {subsubsection}{1r. Camerata della servitù}{12}{subsubsection*.53}%
-\contentsline {subsubsection}{1s. Sala del tesoro}{12}{subsubsection*.54}%
-\contentsline {chapter}{\numberline {5}Licenza Creative Commons [CC-BY-SA]}{14}{chapter.5}%
-\contentsline {subsubsection}{Perché una licenza? Tiratela meno!}{14}{subsubsection*.56}%
-\contentsline {subsubsection}{[CC BY-SA 4.0 Deed]}{14}{subsubsection*.57}%
-\contentsline {subsubsection}{Tu sei libero di:}{14}{subsubsection*.58}%
-\contentsline {subsubsection}{Alle seguenti condizioni:}{14}{subsubsection*.59}%
-\contentsline {subsubsection}{Note:}{14}{subsubsection*.60}%
-\contentsline {subsubsection}{Invia un feedback}{14}{subsubsection*.61}%
+\contentsline {subsubsection}{Dante Passafiume*}{4}{subsubsection*.11}%
+\contentsline {paragraph}{Tratti caratteriali}{4}{paragraph*.12}%
+\contentsline {paragraph}{Ideali}{4}{paragraph*.13}%
+\contentsline {paragraph}{Difetti}{4}{paragraph*.14}%
+\contentsline {subsubsection}{Herbert Mann*}{4}{subsubsection*.16}%
+\contentsline {paragraph}{Tratti caratteriali}{4}{paragraph*.17}%
+\contentsline {paragraph}{Ideali}{4}{paragraph*.18}%
+\contentsline {paragraph}{Difetti}{4}{paragraph*.19}%
+\contentsline {subsubsection}{Isabella Grattaciotoli}{4}{subsubsection*.21}%
+\contentsline {paragraph}{Tratti caratteriali}{4}{paragraph*.22}%
+\contentsline {paragraph}{Ideali}{4}{paragraph*.23}%
+\contentsline {paragraph}{Difetti}{4}{paragraph*.24}%
+\contentsline {subsubsection}{Virgilio Monforte}{4}{subsubsection*.26}%
+\contentsline {paragraph}{Difetti}{5}{paragraph*.27}%
+\contentsline {subsubsection}{Clara Spina}{5}{subsubsection*.29}%
+\contentsline {paragraph}{Difetti}{5}{paragraph*.30}%
+\contentsline {subsection}{NPC in breve}{5}{subsection*.31}%
+\contentsline {subsubsection}{Tobaldo Malatesta}{5}{subsubsection*.32}%
+\contentsline {subsubsection}{Filippo Pocaterra}{5}{subsubsection*.33}%
+\contentsline {subsubsection}{Matilde di Canossa}{5}{subsubsection*.34}%
+\contentsline {subsubsection}{Goffredo il Gobbo}{5}{subsubsection*.35}%
+\contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{6}{chapter.2}%
+\contentsline {subsection}{Il carro al sicuro}{6}{subsection*.37}%
+\contentsline {subsection}{NPC della locanda}{7}{subsection*.38}%
+\contentsline {subsection}{Il pasto}{7}{subsection*.39}%
+\contentsline {chapter}{\numberline {3}Verso Canossa}{8}{chapter.3}%
+\contentsline {section}{Incontri durante il viaggio}{8}{section*.41}%
+\contentsline {subsection}{Imboscata}{8}{subsection*.42}%
+\contentsline {section}{Udienza con Matilde}{8}{section*.43}%
+\contentsline {chapter}{\numberline {4}Proteggere Goffredo}{11}{chapter.4}%
+\contentsline {section}{Interpretare il Duca}{11}{section*.46}%
+\contentsline {subsection}{Il vicario}{11}{subsection*.47}%
+\contentsline {subsection}{1. Castello di Rossena}{11}{subsection*.48}%
+\contentsline {subsubsection}{1a. Sala delle udienze}{11}{subsubsection*.49}%
+\contentsline {subsubsection}{1b. Ingresso}{12}{subsubsection*.50}%
+\contentsline {subsubsection}{1c. Dispensa}{12}{subsubsection*.51}%
+\contentsline {subsubsection}{1d. Cucina}{12}{subsubsection*.52}%
+\contentsline {subsubsection}{1e. Sala}{12}{subsubsection*.53}%
+\contentsline {subsubsection}{1f. Sala pranzo}{12}{subsubsection*.54}%
+\contentsline {subsubsection}{1g. Ripostiglio}{12}{subsubsection*.55}%
+\contentsline {subsubsection}{1h. Camera}{12}{subsubsection*.56}%
+\contentsline {subsubsection}{1i. Studio}{12}{subsubsection*.57}%
+\contentsline {subsubsection}{1j. Stanza dei ricevimenti}{12}{subsubsection*.58}%
+\contentsline {subsubsection}{1k. Ripostiglio}{12}{subsubsection*.59}%
+\contentsline {subsubsection}{1l. Stanza del camino}{12}{subsubsection*.60}%
+\contentsline {subsubsection}{1m. Stanza da lettura}{13}{subsubsection*.61}%
+\contentsline {subsubsection}{1n. Corridoio e scale}{13}{subsubsection*.62}%
+\contentsline {subsubsection}{1o. Camerata guardie}{13}{subsubsection*.63}%
+\contentsline {subsubsection}{1p. Camerata guardie}{13}{subsubsection*.64}%
+\contentsline {subsubsection}{1q. Corridoio fra le camerate}{13}{subsubsection*.65}%
+\contentsline {subsubsection}{1r. Camerata della servitù}{13}{subsubsection*.66}%
+\contentsline {subsubsection}{1s. Sala del tesoro}{13}{subsubsection*.67}%
+\contentsline {chapter}{\numberline {5}Licenza Creative Commons [CC-BY-SA]}{15}{chapter.5}%
+\contentsline {subsubsection}{Perché una licenza? Tiratela meno!}{15}{subsubsection*.69}%
+\contentsline {subsubsection}{[CC BY-SA 4.0 Deed]}{15}{subsubsection*.70}%
+\contentsline {subsubsection}{Tu sei libero di:}{15}{subsubsection*.71}%
+\contentsline {subsubsection}{Alle seguenti condizioni:}{15}{subsubsection*.72}%
+\contentsline {subsubsection}{Note:}{15}{subsubsection*.73}%
+\contentsline {subsubsection}{Invia un feedback}{15}{subsubsection*.74}%
 \contentsfinish 
