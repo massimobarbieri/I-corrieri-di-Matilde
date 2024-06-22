@@ -43,7 +43,7 @@
 \contentsline {subsection}{Il vicario}{11}{subsection*.48}%
 \contentsline {subsection}{1. Castello di Rossena}{11}{subsection*.49}%
 \contentsline {subsubsection}{1a. Sala delle udienze}{11}{subsubsection*.50}%
-\contentsline {subsubsection}{1b. Ingresso}{12}{subsubsection*.51}%
+\contentsline {subsubsection}{1b. Ingresso}{11}{subsubsection*.51}%
 \contentsline {subsubsection}{1c. Dispensa}{12}{subsubsection*.52}%
 \contentsline {subsubsection}{1d. Cucina}{12}{subsubsection*.53}%
 \contentsline {subsubsection}{1e. Sala}{12}{subsubsection*.54}%
@@ -54,7 +54,7 @@
 \contentsline {subsubsection}{1j. Stanza dei ricevimenti}{12}{subsubsection*.59}%
 \contentsline {subsubsection}{1k. Ripostiglio}{12}{subsubsection*.60}%
 \contentsline {subsubsection}{1l. Stanza del camino}{12}{subsubsection*.61}%
-\contentsline {subsubsection}{1m. Stanza da lettura}{13}{subsubsection*.62}%
+\contentsline {subsubsection}{1m. Stanza da lettura}{12}{subsubsection*.62}%
 \contentsline {subsubsection}{1n. Corridoio e scale}{13}{subsubsection*.63}%
 \contentsline {subsubsection}{1o. Camerata guardie}{13}{subsubsection*.64}%
 \contentsline {subsubsection}{1p. Camerata guardie}{13}{subsubsection*.65}%
