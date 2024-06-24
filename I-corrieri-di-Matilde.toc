@@ -43,7 +43,7 @@
 \contentsline {subsection}{Il vicario}{11}{subsection*.48}%
 \contentsline {subsection}{1. Castello di Rossena}{11}{subsection*.49}%
 \contentsline {subsubsection}{1a. Sala delle udienze}{11}{subsubsection*.50}%
-\contentsline {subsubsection}{1b. Ingresso}{11}{subsubsection*.51}%
+\contentsline {subsubsection}{1b. Ingresso}{12}{subsubsection*.51}%
 \contentsline {subsubsection}{1c. Dispensa}{12}{subsubsection*.52}%
 \contentsline {subsubsection}{1d. Cucina}{12}{subsubsection*.53}%
 \contentsline {subsubsection}{1e. Sala}{12}{subsubsection*.54}%
