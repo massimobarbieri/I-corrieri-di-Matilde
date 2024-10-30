@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.9.5)  30 OCT 2024 09:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.9.5)  30 OCT 2024 09:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1465,22 +1465,25 @@ File: img/matilde.png Graphic file (type png)
 Package pdftex.def Info: img/matilde.png  used on input line 132.
 (pdftex.def)             Requested size: 213.39566pt x 280.64pt.
 
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 139.
+Package pdftex.def Info: img/paper.jpg  used on input line 142.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 139.
+Package pdftex.def Info: img/paper.jpg  used on input line 142.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 139.
+Package pdftex.def Info: img/paper.jpg  used on input line 142.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 139.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 142.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [2 <./img/enrico3.png>]
 
@@ -1493,28 +1496,28 @@ Package pdftex.def Info: img/goffredo-il-gobbo.png  used on input line 149.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 156.
+Package pdftex.def Info: img/paper.jpg  used on input line 158.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 156.
+Package pdftex.def Info: img/paper.jpg  used on input line 158.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 156.
+Package pdftex.def Info: img/paper.jpg  used on input line 158.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 156.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 158.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [3{/usr/share/texlive/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc} <.
 /img/matilde.png> <./img/goffredo-il-gobbo.png>]
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <8> not available
 (Font)              Font shape `T1/pbk/l/it' tried instead on input line 159.
-
-
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
 (Font)              Font shape `T1/pbk/db/sl' tried instead on input line 171.
+
+
 <img/dante-passafiume.png, id=151, 813.0375pt x 813.0375pt>
 File: img/dante-passafiume.png Graphic file (type png)
 <use img/dante-passafiume.png>
@@ -1525,55 +1528,54 @@ File: img/herbert-mann.png Graphic file (type png)
 <use img/herbert-mann.png>
 Package pdftex.def Info: img/herbert-mann.png  used on input line 193.
 (pdftex.def)             Requested size: 227.62204pt x 227.62285pt.
-
-
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 202.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 202.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 202.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 202.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[4 <./img/dante-passafiume.png>]
-<img/isabella-grattaciotoli.png, id=178, 767.11594pt x 766.36313pt>
+<img/isabella-grattaciotoli.png, id=157, 767.11594pt x 766.36313pt>
 File: img/isabella-grattaciotoli.png Graphic file (type png)
 <use img/isabella-grattaciotoli.png>
 Package pdftex.def Info: img/isabella-grattaciotoli.png  used on input line 207
 .
 (pdftex.def)             Requested size: 227.62204pt x 227.39656pt.
-<img/virgilio-monforte.png, id=181, 737.00343pt x 749.80125pt>
+
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 217.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 217.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 217.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 217.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[4 <./img/dante-passafiume.png>]
+
+<img/virgilio-monforte.png, id=184, 737.00343pt x 749.80125pt>
 File: img/virgilio-monforte.png Graphic file (type png)
 <use img/virgilio-monforte.png>
 Package pdftex.def Info: img/virgilio-monforte.png  used on input line 221.
 (pdftex.def)             Requested size: 227.62204pt x 231.56647pt.
 
 
-
-
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 247.
+Package pdftex.def Info: img/paper.jpg  used on input line 250.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 247.
+Package pdftex.def Info: img/paper.jpg  used on input line 250.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 247.
+Package pdftex.def Info: img/paper.jpg  used on input line 250.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 247.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 250.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [5 <./img/herbert-mann.png> <./img/isabella-grattaciotoli.png> <./img/virgilio-
 monforte.png>]
@@ -1956,7 +1958,7 @@ f-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/boo
 kman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.
 pfb>
-Output written on I-corrieri-di-Matilde.pdf (19 pages, 16064426 bytes).
+Output written on I-corrieri-di-Matilde.pdf (19 pages, 16064363 bytes).
 PDF statistics:
  431 PDF objects out of 1000 (max. 8388607)
  342 compressed objects within 4 object streams

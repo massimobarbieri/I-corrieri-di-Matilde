@@ -18,9 +18,9 @@
 \contentsline {paragraph}{Ideali}{4}{paragraph*.19}%
 \contentsline {paragraph}{Difetti}{4}{paragraph*.20}%
 \contentsline {subsubsection}{Isabella Grattaciotoli}{4}{subsubsection*.22}%
-\contentsline {paragraph}{Tratti caratteriali}{5}{paragraph*.23}%
-\contentsline {paragraph}{Ideali}{5}{paragraph*.24}%
-\contentsline {paragraph}{Difetti}{5}{paragraph*.25}%
+\contentsline {paragraph}{Tratti caratteriali}{4}{paragraph*.23}%
+\contentsline {paragraph}{Ideali}{4}{paragraph*.24}%
+\contentsline {paragraph}{Difetti}{4}{paragraph*.25}%
 \contentsline {subsubsection}{Virgilio Monforte}{5}{subsubsection*.27}%
 \contentsline {paragraph}{Difetti}{5}{paragraph*.28}%
 \contentsline {subsubsection}{Clara Spina}{5}{subsubsection*.30}%
@@ -28,8 +28,8 @@
 \contentsline {subsection}{NPC in breve}{5}{subsection*.32}%
 \contentsline {subsubsection}{Tobaldo Malatesta}{5}{subsubsection*.33}%
 \contentsline {subsubsection}{Filippo Pocaterra}{5}{subsubsection*.34}%
-\contentsline {subsubsection}{Matilde di Canossa}{6}{subsubsection*.35}%
-\contentsline {subsubsection}{Goffredo il Gobbo}{6}{subsubsection*.36}%
+\contentsline {subsubsection}{Matilde di Canossa}{5}{subsubsection*.35}%
+\contentsline {subsubsection}{Goffredo il Gobbo}{5}{subsubsection*.36}%
 \contentsline {chapter}{\numberline {2}L'arrivo al villaggio}{7}{chapter.2}%
 \contentsline {subsection}{Il carro al sicuro}{7}{subsection*.38}%
 \contentsline {subsection}{NPC della locanda}{8}{subsection*.39}%
