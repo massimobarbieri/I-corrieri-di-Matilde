@@ -38,34 +38,34 @@
 \contentsline {section}{Incontri durante il viaggio}{9}{section*.42}%
 \contentsline {subsection}{Imboscata}{9}{subsection*.43}%
 \contentsline {section}{Udienza con Matilde}{9}{section*.44}%
-\contentsline {chapter}{\numberline {4}Proteggere Goffredo}{12}{chapter.4}%
-\contentsline {section}{Interpretare il Duca}{12}{section*.47}%
-\contentsline {subsection}{Il vicario}{12}{subsection*.48}%
-\contentsline {subsection}{1. Castello di Rossena}{12}{subsection*.49}%
-\contentsline {subsubsection}{1a. Sala delle udienze}{12}{subsubsection*.50}%
-\contentsline {subsubsection}{1b. Ingresso}{13}{subsubsection*.51}%
-\contentsline {subsubsection}{1c. Dispensa}{13}{subsubsection*.52}%
-\contentsline {subsubsection}{1d. Cucina}{13}{subsubsection*.53}%
-\contentsline {subsubsection}{1e. Sala}{13}{subsubsection*.54}%
-\contentsline {subsubsection}{1f. Sala pranzo}{13}{subsubsection*.55}%
-\contentsline {subsubsection}{1g. Ripostiglio}{13}{subsubsection*.56}%
-\contentsline {subsubsection}{1h. Camera}{13}{subsubsection*.57}%
-\contentsline {subsubsection}{1i. Studio}{13}{subsubsection*.58}%
-\contentsline {subsubsection}{1j. Stanza dei ricevimenti}{13}{subsubsection*.59}%
-\contentsline {subsubsection}{1k. Ripostiglio}{13}{subsubsection*.60}%
-\contentsline {subsubsection}{1l. Stanza del camino}{13}{subsubsection*.61}%
-\contentsline {subsubsection}{1m. Stanza da lettura}{13}{subsubsection*.62}%
-\contentsline {subsubsection}{1n. Corridoio e scale}{14}{subsubsection*.63}%
-\contentsline {subsubsection}{1o. Camerata guardie}{14}{subsubsection*.64}%
-\contentsline {subsubsection}{1p. Camerata guardie}{14}{subsubsection*.65}%
-\contentsline {subsubsection}{1q. Corridoio fra le camerate}{14}{subsubsection*.66}%
-\contentsline {subsubsection}{1r. Camerata della servitù}{14}{subsubsection*.67}%
-\contentsline {subsubsection}{1s. Sala del tesoro}{14}{subsubsection*.68}%
-\contentsline {chapter}{\numberline {5}Licenza Creative Commons [CC-BY-SA]}{16}{chapter.5}%
-\contentsline {subsubsection}{Perché una licenza? Tiratela meno!}{16}{subsubsection*.70}%
-\contentsline {subsubsection}{[CC BY-SA 4.0 Deed]}{16}{subsubsection*.71}%
-\contentsline {subsubsection}{Tu sei libero di:}{16}{subsubsection*.72}%
-\contentsline {subsubsection}{Alle seguenti condizioni:}{16}{subsubsection*.73}%
-\contentsline {subsubsection}{Note:}{16}{subsubsection*.74}%
-\contentsline {subsubsection}{Invia un feedback}{16}{subsubsection*.75}%
+\contentsline {chapter}{\numberline {4}Proteggere Goffredo}{11}{chapter.4}%
+\contentsline {section}{Interpretare il Duca}{11}{section*.47}%
+\contentsline {subsection}{Il vicario}{11}{subsection*.48}%
+\contentsline {subsection}{1. Castello di Rossena}{11}{subsection*.49}%
+\contentsline {subsubsection}{1a. Sala delle udienze}{11}{subsubsection*.50}%
+\contentsline {subsubsection}{1b. Ingresso}{12}{subsubsection*.51}%
+\contentsline {subsubsection}{1c. Dispensa}{12}{subsubsection*.52}%
+\contentsline {subsubsection}{1d. Cucina}{12}{subsubsection*.53}%
+\contentsline {subsubsection}{1e. Sala}{12}{subsubsection*.54}%
+\contentsline {subsubsection}{1f. Sala pranzo}{12}{subsubsection*.55}%
+\contentsline {subsubsection}{1g. Ripostiglio}{12}{subsubsection*.56}%
+\contentsline {subsubsection}{1h. Camera}{12}{subsubsection*.57}%
+\contentsline {subsubsection}{1i. Studio}{12}{subsubsection*.58}%
+\contentsline {subsubsection}{1j. Stanza dei ricevimenti}{12}{subsubsection*.59}%
+\contentsline {subsubsection}{1k. Ripostiglio}{12}{subsubsection*.60}%
+\contentsline {subsubsection}{1l. Stanza del camino}{12}{subsubsection*.61}%
+\contentsline {subsubsection}{1m. Stanza da lettura}{12}{subsubsection*.62}%
+\contentsline {subsubsection}{1n. Corridoio e scale}{13}{subsubsection*.63}%
+\contentsline {subsubsection}{1o. Camerata guardie}{13}{subsubsection*.64}%
+\contentsline {subsubsection}{1p. Camerata guardie}{13}{subsubsection*.65}%
+\contentsline {subsubsection}{1q. Corridoio fra le camerate}{13}{subsubsection*.66}%
+\contentsline {subsubsection}{1r. Camerata della servitù}{13}{subsubsection*.67}%
+\contentsline {subsubsection}{1s. Sala del tesoro}{13}{subsubsection*.68}%
+\contentsline {chapter}{\numberline {5}Licenza Creative Commons [CC-BY-SA]}{15}{chapter.5}%
+\contentsline {subsubsection}{Perché una licenza? Tiratela meno!}{15}{subsubsection*.70}%
+\contentsline {subsubsection}{[CC BY-SA 4.0 Deed]}{15}{subsubsection*.71}%
+\contentsline {subsubsection}{Tu sei libero di:}{15}{subsubsection*.72}%
+\contentsline {subsubsection}{Alle seguenti condizioni:}{15}{subsubsection*.73}%
+\contentsline {subsubsection}{Note:}{15}{subsubsection*.74}%
+\contentsline {subsubsection}{Invia un feedback}{15}{subsubsection*.75}%
 \contentsfinish 
